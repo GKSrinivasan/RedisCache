@@ -1,0 +1,11 @@
+package config
+<package id="StackExchange.Redis.StrongName" version="1.2.1" targetFramework="net45" />
+<package id="Microsoft.Web.RedisSessionStateProvider" version="2.2.5" targetFramework="net45" />
+
+
+web config
+  <!--<sessionState mode="Custom" customProvider="LaserRedisSessionStateStorage">
+      <providers>
+        <add name="LaserRedisSessionStateStorage" type="Microsoft.Web.Redis.RedisSessionStateProvider" host="LaserRedisCache.redis.cache.windows.net:6380" accessKey="9wq6lk7rtoA3WSxaRVUawCUabZ7kv2i6yOO9oAUGNWs=" ssl="true" />
+      </providers>
+    </sessionState>-->
